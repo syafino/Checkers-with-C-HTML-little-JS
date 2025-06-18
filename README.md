@@ -4,13 +4,13 @@ As part of an honors program at Parkland College, I developed a suite of interac
 
 **🕹️ Featured Projects**
 
-♟️ Online Checkers Game
+♟️ Online Checkers Game **https://remy.parkland.edu/~syunalfian1/personal_projects/checkers_backup/**
 
 An interactive, browser-based Checkers game designed for strategic two-player gameplay.
 Built with HTML, CSS, JavaScript, and AJAX
 Optimized for desktop browsing with near-instant move execution
 Focused on a clean user interface and responsive interactions
 
-✊🖐✌️ Rock-Paper-Scissors (C++)
+✊🖐✌️ Rock-Paper-Scissors (C++) **https://remy.parkland.edu/~syunalfian1/personal_projects/rockpapersci/**
 
 A console-based game implemented in C++, showcasing logic structures and input handling.
