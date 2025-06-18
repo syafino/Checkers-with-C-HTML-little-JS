@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    	<meta charset="UTF-8">
+    	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+    	<title>Rock Paper Scissors Game</title>
+	<link rel="stylesheet" type="text/css" href="https://remy.parkland.edu/~syunalfian1/personal_projects/rockpapersci/styles.css">
+</head>
+
+<body>
+<form action="runme.cgi" method="POST">
+	<div class="disclaimercontainer">
+        <table class="disclaimer">
+                <tr>
+                <td align="center">
+                        <body>Take turns choosing your answer while covering the other player's answer</body>
+                </td>
+                </tr>
+        </table>
+        </div>
+	<div class="container">
+    	<table class="table1">
+        	<tr>
+            	<td>
+			<div class="player"> 
+                	<h2>Player 1</h2>
+                	<label><input type="radio" name="p1" value="rock" required> Rock</label>
+                	<label><input type="radio" name="p1" value="paper"> Paper</label>
+                	<label><input type="radio" name="p1" value="scissors"> Scissors</label>
+            		</div>
+		</td>
+	</table>
+	
+        <table class="table2">
+		<tr>
+            	<td>
+			<div class="player">
+                	<h2>Player 2</h2>
+                	<label><input type="radio" name="p2" value="rock" required> Rock</label>
+                	<label><input type="radio" name="p2" value="paper"> Paper</label>
+                	<label><input type="radio" name="p2" value="scissors"> Scissors</label>
+            		</div>
+		</td>
+        	</tr>
+	</table>
+	</div>
+	<div class="submitcontainer">
+        <table class="submit">
+        	<tr>
+            	<td align="center">
+                	<input type="submit" value="Submit Choices">
+            	</td>
+        	</tr>
+   	</table>
+	</div>
+</form>
+</body>
+</html>	

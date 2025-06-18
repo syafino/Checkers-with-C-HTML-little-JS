@@ -1,0 +1,75 @@
+html, body {
+    height: 100%;ø
+    margin: 0;
+}
+body {
+	background: linear-gradient(320deg, #eb92be, #ffef78);
+    	font-family: Arial, sans-serif;
+    	text-align: center;
+	display: flex;
+	flex-direction: column;
+    	justify-content: center;
+}
+
+.submitcontainer{
+    	display: flex;
+    	justify-content: center;
+    	width: 100%;
+    	margin-top: 20px; 
+}
+
+.disclaimercontainer{
+	margin-bottom: 10px;
+}
+
+.container {
+    	display: flex;
+    	justify-content: space-between;
+    	align-items: center;
+   	padding: 10px;
+}
+
+.table1, .table2 {
+    	backdrop-filter: blur(5.5px);
+    	width: 30%;
+}
+
+.submit {
+    	backdrop-filter: blur(5.5px);
+        -webkit-backdrop-filter: blur (5.5px);
+        background:rgba(255, 255, 255, 0.75);
+        border: 1px solid rgba(255, 255, 255, 0.01);
+        border-radius: 20px;
+    	text-align: center;
+	padding: 10px;
+    	width: 20%;
+	box-shadow: 5px 5px 20px rgba(27, 27, 27, 0.5);
+}
+
+.disclaimer {
+        backdrop-filter: blur(5.5px);
+        -webkit-backdrop-filter: blur (5.5px);
+        background:rgba(255, 255, 255, 0.75);
+        border: 1px solid rgba(255, 255, 255, 0.01);
+        border-radius: 20px;
+        text-align: center;
+        width: 60%;
+	padding: 10px;
+    	margin-bottom: 10px;
+	display: table;
+    	margin: 0 auto;
+}
+
+
+.player{	
+	backdrop-filter: blur (5.5px); 
+	-webkit-backdrop-filter: blur (5.5px);
+	background:rgba(255, 255, 255, 0.75);
+	border: 1px solid rgba(255, 255, 255, 0.01);
+	border-radius: 16px;
+	box-shadow: 5px 5px 20px rgba(27, 27, 27, 0.5);
+	margin-bottom: 20px;
+	padding: 10px;
+}
+
+
