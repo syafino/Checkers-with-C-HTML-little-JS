@@ -11,10 +11,10 @@ Built with HTML, CSS, JavaScript, and AJAX
 Optimized for desktop browsing with near-instant move execution
 Focused on a clean user interface and responsive interactions
 
-**🧮 Web Calculators**
+🧮 Web Calculators
 
 Simple and efficient calculators for basic arithmetic, embedded in the same interface.
 
-**✊🖐✌️ Rock-Paper-Scissors (C++)**
+✊🖐✌️ Rock-Paper-Scissors (C++)
 
 A console-based game implemented in C++, showcasing logic structures and input handling.
