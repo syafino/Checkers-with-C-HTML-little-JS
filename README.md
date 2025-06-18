@@ -13,4 +13,4 @@ Focused on a clean user interface and responsive interactions
 
 ✊🖐✌️ Rock-Paper-Scissors (C++) **https://remy.parkland.edu/~syunalfian1/personal_projects/rockpapersci/**
 
-A console-based game implemented in C++, showcasing logic structures and input handling.
+A console-based game implemented in C++, showcasing logic structures and input handling. This is mainly for CSS practice
