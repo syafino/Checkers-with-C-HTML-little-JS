@@ -12,4 +12,4 @@ While it is way easier to do this with python and JS, the main use of C++ was to
 
 ✊🖐✌️ Rock-Paper-Scissors (C++) **https://remy.parkland.edu/~syunalfian1/personal_projects/rockpapersci/**
 
-A console-based game implemented in C++, showcasing logic structures and input handling. This is mainly for CSS practice
+This was mainly for CSS practice
